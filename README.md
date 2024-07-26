@@ -1,4 +1,4 @@
-**Requirements**
+## Requirements
 
 - Xcode installed and project cloned
 - Any simulator connected 

@@ -4,7 +4,7 @@
 - Any simulator connected 
 
 
-**Design Pattern Used — XCUITest with Page Object Model (POM)**
+## Design Pattern Used — XCUITest with Page Object Model (POM)
 
 **Organizing Locators with Swift Enumerations**: The basic concept is that each screen will have a corresponding enum containing accessibility id's or string value for each element in that view. This means that in case our elements locators change, we’ll have to do minimal work by changing them in one single place.
 

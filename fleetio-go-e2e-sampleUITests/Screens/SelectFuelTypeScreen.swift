@@ -10,7 +10,7 @@ import XCTest
 
 
 /// SelectFuelTypeScreen  data representation
-enum SelectFuelTypeScreen: String, ApplicationAccessing, CaseIterable {
+enum SelectFuelTypeScreen: String, ApplicationAccessing {
     
     case fuelFlex = "Flex Fuel"
     case doneButton = "Done"

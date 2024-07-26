@@ -9,7 +9,7 @@ import Foundation
 import XCTest
 
 /// AddNewFuelEntryScreen  data representation
-enum AddNewFuelFormScreen: String, ApplicationAccessing, CaseIterable {
+enum AddNewFuelFormScreen: String, ApplicationAccessing {
     
     case priceField = "fuel_log_price_per_gallon"
     case gallonsField = "fuel_log_gallons"

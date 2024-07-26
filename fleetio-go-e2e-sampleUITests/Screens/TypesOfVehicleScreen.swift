@@ -9,7 +9,7 @@ import Foundation
 import XCTest
 
 /// Types of vehicle  screen data representation
-enum TypesOfVehicleScreen: String, ApplicationAccessing, CaseIterable {
+enum TypesOfVehicleScreen: String, ApplicationAccessing {
     
     case searchField = "search_text_field"
     case elon = "vehicle_list_item_1"

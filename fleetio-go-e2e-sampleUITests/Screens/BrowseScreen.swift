@@ -9,7 +9,7 @@ import Foundation
 import XCTest
 
 /// Browse  screen data representation
-enum BrowseScreen: String, ApplicationAccessing, CaseIterable {
+enum BrowseScreen: String, ApplicationAccessing {
     
     case browseTitle = "Browse"
     case equipment = "browse_list_item_Equipment"

@@ -9,7 +9,7 @@ import Foundation
 import XCTest
 
 /// Login  screen data representation
-enum LoginScreen: String, ApplicationAccessing, CaseIterable {
+enum LoginScreen: String, ApplicationAccessing {
     
     case emailField = "email_text_field"
     case passwordField = "password_text_field"

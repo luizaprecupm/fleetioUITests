@@ -9,7 +9,7 @@ import Foundation
 import XCTest
 
 /// Vehicle details  screen data representation
-enum VehicleDetailsScreen: String, ApplicationAccessing, CaseIterable {
+enum VehicleDetailsScreen: String, ApplicationAccessing {
     
     case fuelLog = "vehicle_option_Fuel Log"
     case serviceHistory = "vehicle_option_Service History"

@@ -9,7 +9,7 @@ import XCTest
 import Foundation
 
 /// Home  screen data representation
-enum HomeScreen: String, ApplicationAccessing, CaseIterable {
+enum HomeScreen: String, ApplicationAccessing {
     
     case fleetioLogo = "fleetio-logo"
     case homeTab = "Home"

@@ -8,7 +8,7 @@
 import Foundation
 import XCTest
 
-enum FuelLogListScreen: String, ApplicationAccessing, CaseIterable {
+enum FuelLogListScreen: String, ApplicationAccessing {
     
     case addNewFuelButton = "fuel_log_new_entry"
     

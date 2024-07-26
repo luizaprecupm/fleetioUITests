@@ -8,13 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		254E0C5D2C5351B600C4C9E5 /* SearchForNonExistingCarTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254E0C5C2C5351B600C4C9E5 /* SearchForNonExistingCarTest.swift */; };
-		25A02CA82C4EF68000222145 /* ApplicationAccessing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A02CA12C4EF68000222145 /* ApplicationAccessing.swift */; };
-		25A02CAC2C4EF68000222145 /* ElementWaitable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A02CA32C4EF68000222145 /* ElementWaitable.swift */; };
-		25A02CAE2C4EF68000222145 /* Scrollable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A02CA42C4EF68000222145 /* Scrollable.swift */; };
-		25A02CB02C4EF68000222145 /* TextFieldActionable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A02CA52C4EF68000222145 /* TextFieldActionable.swift */; };
-		25A02CB62C4EF68500222145 /* Double+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A02CB12C4EF68500222145 /* Double+Extension.swift */; };
-		25A02CB82C4EF68500222145 /* XCUIElement+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A02CB22C4EF68500222145 /* XCUIElement+Extension.swift */; };
-		25A02CBA2C4EF68500222145 /* XCUITest+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A02CB32C4EF68500222145 /* XCUITest+Extension.swift */; };
+		254E0C672C53659A00C4C9E5 /* Double+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254E0C5E2C53659A00C4C9E5 /* Double+Extension.swift */; };
+		254E0C682C53659A00C4C9E5 /* XCUIElement+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254E0C5F2C53659A00C4C9E5 /* XCUIElement+Extension.swift */; };
+		254E0C692C53659A00C4C9E5 /* XCUITest+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254E0C602C53659A00C4C9E5 /* XCUITest+Extension.swift */; };
+		254E0C6A2C53659A00C4C9E5 /* ApplicationAccessing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254E0C622C53659A00C4C9E5 /* ApplicationAccessing.swift */; };
+		254E0C6B2C53659A00C4C9E5 /* ElementWaitable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254E0C632C53659A00C4C9E5 /* ElementWaitable.swift */; };
+		254E0C6C2C53659A00C4C9E5 /* Scrollable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254E0C642C53659A00C4C9E5 /* Scrollable.swift */; };
+		254E0C6D2C53659A00C4C9E5 /* TextFieldActionable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 254E0C652C53659A00C4C9E5 /* TextFieldActionable.swift */; };
 		25A02CBE2C4EF68900222145 /* UITest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A02CBB2C4EF68900222145 /* UITest.swift */; };
 		25A02CC52C4EF8F600222145 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A02CC32C4EF8F600222145 /* Utils.swift */; };
 		25A02CC82C4EFB8F00222145 /* CreateANewFuelEntryTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25A02CC62C4EFB8F00222145 /* CreateANewFuelEntryTest.swift */; };
@@ -71,13 +71,13 @@
 
 /* Begin PBXFileReference section */
 		254E0C5C2C5351B600C4C9E5 /* SearchForNonExistingCarTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchForNonExistingCarTest.swift; sourceTree = "<group>"; };
-		25A02CA12C4EF68000222145 /* ApplicationAccessing.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApplicationAccessing.swift; sourceTree = "<group>"; };
-		25A02CA32C4EF68000222145 /* ElementWaitable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ElementWaitable.swift; sourceTree = "<group>"; };
-		25A02CA42C4EF68000222145 /* Scrollable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Scrollable.swift; sourceTree = "<group>"; };
-		25A02CA52C4EF68000222145 /* TextFieldActionable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldActionable.swift; sourceTree = "<group>"; };
-		25A02CB12C4EF68500222145 /* Double+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Double+Extension.swift"; sourceTree = "<group>"; };
-		25A02CB22C4EF68500222145 /* XCUIElement+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "XCUIElement+Extension.swift"; sourceTree = "<group>"; };
-		25A02CB32C4EF68500222145 /* XCUITest+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "XCUITest+Extension.swift"; sourceTree = "<group>"; };
+		254E0C5E2C53659A00C4C9E5 /* Double+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Double+Extension.swift"; sourceTree = "<group>"; };
+		254E0C5F2C53659A00C4C9E5 /* XCUIElement+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "XCUIElement+Extension.swift"; sourceTree = "<group>"; };
+		254E0C602C53659A00C4C9E5 /* XCUITest+Extension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "XCUITest+Extension.swift"; sourceTree = "<group>"; };
+		254E0C622C53659A00C4C9E5 /* ApplicationAccessing.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApplicationAccessing.swift; sourceTree = "<group>"; };
+		254E0C632C53659A00C4C9E5 /* ElementWaitable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ElementWaitable.swift; sourceTree = "<group>"; };
+		254E0C642C53659A00C4C9E5 /* Scrollable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Scrollable.swift; sourceTree = "<group>"; };
+		254E0C652C53659A00C4C9E5 /* TextFieldActionable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TextFieldActionable.swift; sourceTree = "<group>"; };
 		25A02CBB2C4EF68900222145 /* UITest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UITest.swift; sourceTree = "<group>"; };
 		25A02CC32C4EF8F600222145 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 		25A02CC62C4EFB8F00222145 /* CreateANewFuelEntryTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateANewFuelEntryTest.swift; sourceTree = "<group>"; };
@@ -144,27 +144,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		25A02CA62C4EF68000222145 /* Contracts */ = {
+		254E0C612C53659A00C4C9E5 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				25A02CA12C4EF68000222145 /* ApplicationAccessing.swift */,
-				25A02CA32C4EF68000222145 /* ElementWaitable.swift */,
-				25A02CA42C4EF68000222145 /* Scrollable.swift */,
-				25A02CA52C4EF68000222145 /* TextFieldActionable.swift */,
+				254E0C5E2C53659A00C4C9E5 /* Double+Extension.swift */,
+				254E0C5F2C53659A00C4C9E5 /* XCUIElement+Extension.swift */,
+				254E0C602C53659A00C4C9E5 /* XCUITest+Extension.swift */,
 			);
-			name = Contracts;
-			path = ../../../Desktop/Contracts;
+			path = Extensions;
 			sourceTree = "<group>";
 		};
-		25A02CB42C4EF68500222145 /* Extensions */ = {
+		254E0C662C53659A00C4C9E5 /* Contracts */ = {
 			isa = PBXGroup;
 			children = (
-				25A02CB12C4EF68500222145 /* Double+Extension.swift */,
-				25A02CB22C4EF68500222145 /* XCUIElement+Extension.swift */,
-				25A02CB32C4EF68500222145 /* XCUITest+Extension.swift */,
+				254E0C622C53659A00C4C9E5 /* ApplicationAccessing.swift */,
+				254E0C632C53659A00C4C9E5 /* ElementWaitable.swift */,
+				254E0C642C53659A00C4C9E5 /* Scrollable.swift */,
+				254E0C652C53659A00C4C9E5 /* TextFieldActionable.swift */,
 			);
-			name = Extensions;
-			path = ../../../Desktop/Extensions;
+			path = Contracts;
 			sourceTree = "<group>";
 		};
 		25A02CBC2C4EF68900222145 /* BaseClasses */ = {
@@ -269,8 +267,8 @@
 				25A02DCF2C4F041900222145 /* UITests */,
 				25A02CBF2C4EF6BB00222145 /* Screens */,
 				25A02CBC2C4EF68900222145 /* BaseClasses */,
-				25A02CB42C4EF68500222145 /* Extensions */,
-				25A02CA62C4EF68000222145 /* Contracts */,
+				254E0C662C53659A00C4C9E5 /* Contracts */,
+				254E0C612C53659A00C4C9E5 /* Extensions */,
 				5569B84F2C4ABB830018A4F5 /* fleetio_go_e2e_sampleUITests.swift */,
 				5569B8512C4ABB830018A4F5 /* fleetio_go_e2e_sampleUITestsLaunchTests.swift */,
 			);
@@ -451,27 +449,27 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				25A02CB82C4EF68500222145 /* XCUIElement+Extension.swift in Sources */,
 				25A02CBE2C4EF68900222145 /* UITest.swift in Sources */,
-				25A02CAE2C4EF68000222145 /* Scrollable.swift in Sources */,
+				254E0C682C53659A00C4C9E5 /* XCUIElement+Extension.swift in Sources */,
+				254E0C6D2C53659A00C4C9E5 /* TextFieldActionable.swift in Sources */,
 				25A02DDB2C52DBA500222145 /* AddNewFuelFormScreen.swift in Sources */,
 				25A02CC52C4EF8F600222145 /* Utils.swift in Sources */,
 				25A02DD92C52DB9500222145 /* FuelLogListScreen.swift in Sources */,
+				254E0C6A2C53659A00C4C9E5 /* ApplicationAccessing.swift in Sources */,
 				5569B8522C4ABB830018A4F5 /* fleetio_go_e2e_sampleUITestsLaunchTests.swift in Sources */,
 				25A02DD72C52D0BF00222145 /* VehicleDetailsScreen.swift in Sources */,
 				25A02DD52C52CF2800222145 /* TypesOfVehicleScreen.swift in Sources */,
-				25A02CB02C4EF68000222145 /* TextFieldActionable.swift in Sources */,
 				25A02CC82C4EFB8F00222145 /* CreateANewFuelEntryTest.swift in Sources */,
+				254E0C672C53659A00C4C9E5 /* Double+Extension.swift in Sources */,
 				5569B8502C4ABB830018A4F5 /* fleetio_go_e2e_sampleUITests.swift in Sources */,
-				25A02CB62C4EF68500222145 /* Double+Extension.swift in Sources */,
-				25A02CA82C4EF68000222145 /* ApplicationAccessing.swift in Sources */,
 				25A02DCE2C4F040000222145 /* HomeScreen.swift in Sources */,
-				25A02CBA2C4EF68500222145 /* XCUITest+Extension.swift in Sources */,
-				25A02CAC2C4EF68000222145 /* ElementWaitable.swift in Sources */,
 				254E0C5D2C5351B600C4C9E5 /* SearchForNonExistingCarTest.swift in Sources */,
 				25A02DD12C50A59900222145 /* LoginScreen.swift in Sources */,
 				25A02DD32C52CC6A00222145 /* BrowseScreen.swift in Sources */,
+				254E0C692C53659A00C4C9E5 /* XCUITest+Extension.swift in Sources */,
 				25A02DDD2C52ECA600222145 /* SelectFuelTypeScreen.swift in Sources */,
+				254E0C6C2C53659A00C4C9E5 /* Scrollable.swift in Sources */,
+				254E0C6B2C53659A00C4C9E5 /* ElementWaitable.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
